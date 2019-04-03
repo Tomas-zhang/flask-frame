@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://mirrors.aliyun.com/pypi/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-babel = "*"
+flask-bootstrap = "*"
+flask-sqlalchemy = "*"
+flask-migrate = "*"
+flask-login = "*"
+flask-debugtoolbar = "*"
+flask-mail = "*"
+flask-ckeditor = "*"
+flask-moment = "*"
+flask-cache = "*"
+flask-wtf = "*"
+itsdangerous = "*"
+flask-script = "*"
+
+[requires]
+python_version = "3.7"
